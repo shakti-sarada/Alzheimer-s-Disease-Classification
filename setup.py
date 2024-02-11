@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Alzheimer-s-Disease-Classification"
 AUTHOR_USER_NAME = "shakti-sarada"
-SRC_REPO = "Alzheimer Disease Classification"
+SRC_REPO = "AlzheimerDiseaseClassification"
 AUTHOR_EMAIL = "shaktisahoo65@gmail.com"
 
 setuptools.setup(
