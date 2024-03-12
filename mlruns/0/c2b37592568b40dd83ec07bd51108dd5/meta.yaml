@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/dell/Desktop/Alzheimer-s-Disease-Classification/mlruns/0/c2b37592568b40dd83ec07bd51108dd5/artifacts
+end_time: 1708377469947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b37592568b40dd83ec07bd51108dd5
+run_name: intelligent-carp-856
+run_uuid: c2b37592568b40dd83ec07bd51108dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708377460136
+status: 3
+tags: []
+user_id: dell

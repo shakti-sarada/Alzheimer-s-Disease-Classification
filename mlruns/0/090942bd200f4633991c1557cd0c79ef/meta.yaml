@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/dell/Desktop/Alzheimer-s-Disease-Classification/mlruns/0/090942bd200f4633991c1557cd0c79ef/artifacts
+end_time: 1708376663741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 090942bd200f4633991c1557cd0c79ef
+run_name: bold-mouse-305
+run_uuid: 090942bd200f4633991c1557cd0c79ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708376649678
+status: 3
+tags: []
+user_id: dell
