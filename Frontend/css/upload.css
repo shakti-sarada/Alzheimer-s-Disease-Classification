@@ -1,0 +1,12 @@
+.fileUploadInput{
+    width: 100%;
+    border: 1px solid #6b6b6b;
+    background-color: #0f0f0f;
+    padding: 5px;
+    border-radius: 10px;
+    height: 200px;
+}
+
+.fileUploadInput:hover{
+    cursor: grab;
+}

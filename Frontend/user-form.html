@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>User-form | Alzheimer Disease Detection App</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./css/index.css">
+        <link rel="stylesheet" href="./css/user-form.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <h3>Alzheimer Disease Detection</h3>
+            </nav>
+        </header>
+        <section class="body-canvas">
+            <div class="user-form">
+                <div class="form-field form-head">
+                    <label>Please Enter User Details</label>
+                </div>
+                <div class="form-field">
+                    <label>First Name</label>
+                    <input type="text" placeholder="First name" id="formFirstName" name="formFirstName" class="field-input"/>
+                </div>
+                <div class="form-field">
+                    <label>Last Name</label>
+                    <input type="text" placeholder="Last name" id="formLastName" name="formLastName" class="field-input"/>
+                </div>
+                <div class="form-field">
+                    <label>Gender</label>
+                    <select class="field-input" value="select" id="formGender">
+                        <option>Male</option>
+                        <option>Female</option>
+                        <option>Other</option>
+                    </select>
+                </div>
+                <div class="form-field">
+                    <label>Date of Birth</label>
+                    <input type="date" id="formBirth" class="field-input"/>
+                </div>
+                <div class="form-field">
+                    <label>Blood Group</label>
+                    <input type="text" placeholder="A/B/O/AB +/-" id="formBloodGroup" name="formBloodGroup" class="field-input"/>
+                </div>
+                <div class="foot">
+                    <button type="submit" class="submit-btn" onclick="submitForm()">Submit</button>
+                </div>
+            </div>
+        </section>
+        
+        <script src="./js/user-form.js" async defer></script>
+    </body>
+</html>
