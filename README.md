@@ -179,3 +179,11 @@ DVC
 
     ECR_REPOSITORY_NAME = simple-app
 
+# 8. How to start UI
+
+     First run main.py on git bash
+
+     Second run jar file using cmd : "java -jar alzheimer-detector-app-0.0.1-SNAPSHOT.jar" on cmd
+
+     Third step is to open the frontend folder in vs code seprately and open start the live server.
+
